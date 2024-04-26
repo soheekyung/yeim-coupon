@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yeim-coupon/static/css/main.c6e0f935.css",
+    "main.js": "/yeim-coupon/static/js/main.90c5716d.js",
+    "static/media/main.png": "/yeim-coupon/static/media/main.ba2c82f1db5dbd5143de.png",
+    "index.html": "/yeim-coupon/index.html",
+    "main.c6e0f935.css.map": "/yeim-coupon/static/css/main.c6e0f935.css.map",
+    "main.90c5716d.js.map": "/yeim-coupon/static/js/main.90c5716d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6e0f935.css",
+    "static/js/main.90c5716d.js"
+  ]
+}
